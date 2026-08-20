@@ -107,7 +107,7 @@ export default function Navbar({ onOpenBooking }) {
                 }}
               >
                 <PhoneCall size={13} />
-                +91 98765 43210
+                +9199531967730
               </Box>
             </Stack>
           </Stack>
@@ -306,7 +306,7 @@ export default function Navbar({ onOpenBooking }) {
           </Button>
           <Box sx={{ mt: 3, textAlign: 'center', color: '#9CA3AF', fontSize: '0.8rem' }}>
             📍 Mamura, Sector 66, Noida<br />
-            📞 Call: +91 98765 43210
+            📞 Call: +9199531967730
           </Box>
         </Box>
       </Drawer>

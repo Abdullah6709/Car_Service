@@ -59,7 +59,7 @@ export default function Footer({ onOpenBooking }) {
                 <Stack direction="row" spacing={1} alignItems="center">
                   <PhoneCall size={16} color="#F59E0B" />
                   <Typography variant="caption" sx={{ color: '#F59E0B', fontWeight: 700 }}>
-                    +91 98765 43210 / +91 98123 45678
+                    +9199531967730 / +91 98123 45678
                   </Typography>
                 </Stack>
                 <Stack direction="row" spacing={1} alignItems="center">

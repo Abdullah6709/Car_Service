@@ -13,7 +13,7 @@ export default function WhatsAppFloatingButton({ onOpenBooking }) {
       }}
     >
       <Stack spacing={1.5}>
-        <Tooltip title="Emergency Call Workshop (+91 98765 43210)" placement="left">
+        <Tooltip title="Emergency Call Workshop (+9199531967730)" placement="left">
           <IconButton
             component="a"
             href="tel:+919876543210"

@@ -157,7 +157,7 @@ export default function LocationAndContact() {
                           Phone & Working Hours
                         </Typography>
                         <Typography variant="body2" sx={{ color: '#F59E0B', fontWeight: 700, mt: 0.5 }}>
-                          +91 98765 43210
+                          +9199531967730
                         </Typography>
                         <Typography variant="body2" sx={{ color: '#9CA3AF' }}>
                           +91 98123 45678
