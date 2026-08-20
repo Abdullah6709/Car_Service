@@ -13,10 +13,10 @@ export default function WhatsAppFloatingButton({ onOpenBooking }) {
       }}
     >
       <Stack spacing={1.5}>
-        <Tooltip title="Emergency Call Workshop (+9199531967730)" placement="left">
+        <Tooltip title="Emergency Call Workshop (+91 99531 96773)" placement="left">
           <IconButton
             component="a"
-            href="tel:+919876543210"
+            href="tel:+919953196773"
             sx={{
               width: 52,
               height: 52,
@@ -37,7 +37,7 @@ export default function WhatsAppFloatingButton({ onOpenBooking }) {
         <Tooltip title="WhatsApp Instant Service Booking" placement="left">
           <IconButton
             component="a"
-            href="https://wa.me/919876543210?text=Hi%20Sushil%20Motors,%20I%20want%20to%20book%20a%20car%20service%20in%20Mamura%20Noida"
+            href="https://wa.me/919953196773?text=Hi%20Sushil%20Motors,%20I%20want%20to%20book%20a%20car%20service%20in%20Mamura%20Noida"
             target="_blank"
             sx={{
               width: 58,

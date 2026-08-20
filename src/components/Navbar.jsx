@@ -94,7 +94,7 @@ export default function Navbar({ onOpenBooking }) {
               />
               <Box
                 component="a"
-                href="tel:+919876543210"
+                href="tel:+919953196773"
                 sx={{
                   display: 'flex',
                   alignItems: 'center',
@@ -107,7 +107,7 @@ export default function Navbar({ onOpenBooking }) {
                 }}
               >
                 <PhoneCall size={13} />
-                +9199531967730
+                +91 99531 96773
               </Box>
             </Stack>
           </Stack>
@@ -306,7 +306,7 @@ export default function Navbar({ onOpenBooking }) {
           </Button>
           <Box sx={{ mt: 3, textAlign: 'center', color: '#9CA3AF', fontSize: '0.8rem' }}>
             📍 Mamura, Sector 66, Noida<br />
-            📞 Call: +9199531967730
+            📞 Call: +91 99531 96773
           </Box>
         </Box>
       </Drawer>

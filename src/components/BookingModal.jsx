@@ -246,7 +246,7 @@ export default function BookingModal({ open, onClose, initialData = {} }) {
               </Button>
               <Button
                 component="a"
-                href={`https://wa.me/919876543210?text=Hi%20Sushil%20Motors,%20I%20just%20booked%20service%20ref%20${bookingRef}%20for%20my%20${brand}%20${model}`}
+                href={`https://wa.me/919953196773?text=Hi%20Sushil%20Motors,%20I%20just%20booked%20service%20ref%20${bookingRef}%20for%20my%20${brand}%20${model}`}
                 target="_blank"
                 variant="outlined"
                 color="primary"

@@ -157,7 +157,7 @@ export default function LocationAndContact() {
                           Phone & Working Hours
                         </Typography>
                         <Typography variant="body2" sx={{ color: '#F59E0B', fontWeight: 700, mt: 0.5 }}>
-                          +9199531967730
+                          +91 99531 96773
                         </Typography>
                         <Typography variant="body2" sx={{ color: '#9CA3AF' }}>
                           +91 98123 45678
@@ -274,7 +274,7 @@ export default function LocationAndContact() {
                       <TextField
                         required
                         fullWidth
-                        label="Mobile Number (e.g. 9876543210)"
+                        label="Mobile Number (e.g. 9953196773)"
                         value={formData.phone}
                         onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                         sx={{
